@@ -1,10 +1,10 @@
-module github.com/zhaobingss/gorm-sqlcipher
+module github.com/codeconveyer/gorm-sqlcipher
 
 go 1.21
 
 require (
 	github.com/zhaobingss/go-sqlcipher/v4 v4.4.3
-	gorm.io/gorm v1.25.2
+	gorm.io/gorm v1.25.7
 )
 
 require (
