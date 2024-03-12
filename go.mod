@@ -1,6 +1,6 @@
 module github.com/codeconveyer/gorm-sqlcipher
 
-go 1.21
+go 1.22.1
 
 require (
 	github.com/zhaobingss/go-sqlcipher/v4 v4.4.3
